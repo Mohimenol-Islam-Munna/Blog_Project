@@ -1,16 +1,14 @@
-* {
-  box-sizing: border-box;
-  margin: 0px;
-  padding: 0px;
-  color: blue;
+.header {
+  width: 80%;
+  margin: 0px auto;
+  background-color: blueviolet;
+  padding: 15px 10px;
+  text-align: center;
+  color: white;
 }
 
-h2 {
-  color: salmon;
-  margin: 0px;
-  padding: 0px;
-}
-
-.title {
-  color: palegreen;
+.post_details {
+  width: 80%;
+  margin: 20px auto;
+  padding: 10px;
 }
